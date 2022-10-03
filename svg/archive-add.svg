@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vuesax/linear/archive-add</title>
+    <g id="Style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Archive" transform="translate(-300.000000, -188.000000)">
+            <g id="archive-add" transform="translate(300.000000, 188.000000)">
+                <line x1="14.5" y1="10.6499023" x2="9.5" y2="10.6499023" id="Vector" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                <line x1="12" y1="8.20996094" x2="12" y2="13.2099609" id="Vector" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                <path d="M7.17994618,2 C5.04994607,2 3.31994629,3.74000025 3.31994629,5.86000013 L3.31994629,19.9500008 C3.31994629,21.7500007 4.60994637,22.5099994 6.18994641,21.6399994 L11.0699463,18.9300003 C11.5899463,18.6400003 12.4299462,18.6400003 12.9399462,18.9300003 L17.8199463,21.6399994 C19.3999463,22.5199994 20.6899471,21.7600007 20.6899471,19.9500008 L20.6899471,5.86000013 C20.6799471,3.74000025 18.9499464,2 16.8199463,2 L7.17994618,2 Z" id="Vector" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+                <path d="M24,0 L24,24 L0,24 L0,0 L24,0 Z" id="Vector" opacity="0"></path>
+            </g>
+        </g>
+    </g>
+</svg>
